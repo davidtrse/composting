@@ -187,6 +187,13 @@ Trước khi trồng đại trà, cây giống (dù từ hạt hay hom) cần đ
 
 *Nguyên tắc chung quan trọng nhất*: phụ phẩm thân/lá sau thu hoạch PHẢI rải đều hoặc ủ hoai mục hoàn toàn trước khi dùng lại làm phân — dồn đống chưa phân hủy là nguyên nhân trực tiếp gây bệnh mốc trắng và lở cổ rễ, hai bệnh hại nghiêm trọng nhất ghi nhận trên cây gai xanh.
 
+**Video tham khảo để nhận diện bằng mắt (lưu ý quan trọng trước khi xem)**: chưa tìm được video tiếng Việt nào quay riêng sâu bệnh trên cây gai xanh — các video dưới đây quay trên cây trồng khác (ớt, mai, cây ăn trái, hoa hồng...), nhưng dùng được để nhận diện HÌNH DẠNG con rệp/bọ phấn/vết bệnh vì cùng loài gây hại/cùng nhóm nấm bệnh xuất hiện trên nhiều loại cây khác nhau. **Biện pháp xử lý cụ thể (hoạt chất, liều lượng) vẫn phải theo đúng bảng ở mục 3.5 trên đây, không áp dụng theo thuốc/liều trong các video này** vì có thể không phù hợp với cây gai xanh:
+
+- Rệp sáp: [Kinh nghiệm diệt rệp sáp hại cây trồng | VTC16](https://www.youtube.com/watch?v=mzIASBsiehQ)
+- Bọ phấn trắng: [4 biện pháp sinh học trị rệp phấn trắng hại cây](https://www.youtube.com/watch?v=pJKC5PTWzlQ)
+- Bệnh lở cổ rễ (chết cây con): [Quản lý chết cây con, lở cổ rễ, chết xanh, vàng lá](https://www.youtube.com/watch?v=qGghbQ-rnLA)
+- Bệnh thối gốc do nấm/mốc trắng ở rễ: [Nấm trắng gây hại rễ cây](https://www.youtube.com/watch?v=i8vha_lpNl4)
+
 ### 3.6. An toàn lao động khi phun thuốc và xử lý phân bón
 
 **Đây là mục bị bỏ sót phổ biến nhất trong các tài liệu kỹ thuật nông nghiệp — không phải vì không quan trọng, mà vì người viết giáo trình mặc định người đọc đã biết.** Người CHƯA từng làm nông cần được nói rõ:

@@ -59,6 +59,55 @@ Không đào âm cũng không xây tường — chỉ lót lưới mịn trên m
 
 **Khuyến nghị cho Giai đoạn 1 (pilot 2ha)**: luống chìm là lựa chọn đáng cân nhắc nhất về mặt kỹ thuật (ổn định nhiệt độ + chi phí thấp) — nhưng CHỈ nên chọn nếu đã khảo sát thực tế xác nhận vị trí xây dựng cao ráo, thoát nước tốt, không nằm trong vùng có tiền sử ngập úng mùa mưa. Nếu không chắc chắn về điều kiện thoát nước tại vị trí dự kiến, nên chọn luống nổi (an toàn hơn dù chi phí và ổn định nhiệt kém hơn) hoặc làm thử nghiệm cả hai loại song song ở quy mô nhỏ trong Giai đoạn 1 để so sánh thực tế trước khi nhân rộng.
 
+**Sơ đồ mặt cắt so sánh 3 cách bố trí luống**:
+
+<svg viewBox="0 0 750 300" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:750px;height:auto;font-family:sans-serif;">
+  <rect x="0" y="0" width="750" height="300" fill="#faf8f3"/>
+  <!-- ground reference line -->
+  <line x1="20" y1="190" x2="730" y2="190" stroke="#8a8070" stroke-width="1.5" stroke-dasharray="4,3"/>
+  <text x="25" y="184" font-size="11" fill="#5a5248">mặt đất tự nhiên</text>
+
+  <!-- Panel 1: luống nổi -->
+  <g>
+    <rect x="60" y="130" width="140" height="60" fill="#c9a876" stroke="#5a4a30" stroke-width="2"/>
+    <line x1="75" y1="190" x2="75" y2="230" stroke="#5b7a4a" stroke-width="4"/>
+    <text x="130" y="150" font-size="10" text-anchor="middle" fill="#2b2620">gạch xây</text>
+    <text x="130" y="165" font-size="10" text-anchor="middle" fill="#2b2620">~40cm</text>
+    <text x="80" y="245" font-size="10" fill="#3f5734">ống thoát nước</text>
+    <text x="130" y="270" font-size="13" font-weight="600" text-anchor="middle" fill="#2b2620">1. Luống nổi</text>
+    <text x="130" y="286" font-size="10" text-anchor="middle" fill="#5a5248">(xây gạch, cao hơn mặt đất)</text>
+  </g>
+
+  <!-- Panel 2: luống chìm -->
+  <g>
+    <path d="M 300 190 L 300 230 L 440 230 L 440 190" fill="#e9dcc3" stroke="#5a4a30" stroke-width="2"/>
+    <rect x="300" y="220" width="140" height="10" fill="#8a8070"/>
+    <circle cx="315" cy="225" r="3" fill="#5a4a30"/>
+    <circle cx="335" cy="225" r="3" fill="#5a4a30"/>
+    <circle cx="355" cy="225" r="3" fill="#5a4a30"/>
+    <circle cx="375" cy="225" r="3" fill="#5a4a30"/>
+    <circle cx="395" cy="225" r="3" fill="#5a4a30"/>
+    <circle cx="415" cy="225" r="3" fill="#5a4a30"/>
+    <text x="370" y="210" font-size="10" text-anchor="middle" fill="#2b2620">đào sâu 30-40cm</text>
+    <text x="370" y="245" font-size="9" text-anchor="middle" fill="#3f5734">lớp đá dăm/thoát nước (bắt buộc)</text>
+    <text x="370" y="270" font-size="13" font-weight="600" text-anchor="middle" fill="#2b2620">2. Luống chìm</text>
+    <text x="370" y="286" font-size="10" text-anchor="middle" fill="#5a5248">(luống âm — cần thoát nước tốt)</text>
+  </g>
+
+  <!-- Panel 3: nền đất -->
+  <g>
+    <rect x="540" y="184" width="140" height="8" fill="#5b7a4a" opacity="0.6"/>
+    <rect x="540" y="184" width="140" height="8" fill="none" stroke="#3f5734" stroke-width="1" stroke-dasharray="3,2"/>
+    <rect x="540" y="192" width="140" height="14" fill="#c9a876" opacity="0.5"/>
+    <text x="610" y="175" font-size="10" text-anchor="middle" fill="#2b2620">lưới mịn lót đáy</text>
+    <text x="610" y="230" font-size="9" text-anchor="middle" fill="#5a5248">(ngang mặt đất tự nhiên)</text>
+    <text x="610" y="270" font-size="13" font-weight="600" text-anchor="middle" fill="#2b2620">3. Nền đất</text>
+    <text x="610" y="286" font-size="10" text-anchor="middle" fill="#5a5248">(mô hình quy mô lớn TQ, mục 10)</text>
+  </g>
+</svg>
+
+*Sơ đồ minh họa mang tính khái quát, không theo tỷ lệ thật — dùng để hình dung sự khác biệt vị trí luống so với mặt đất, không thay thế bản vẽ kỹ thuật xây dựng thật.*
+
 **Bể ủ/chứa thức ăn**: xây riêng biệt bằng gạch, có tráng nền xi măng (để tránh thoát nước và tránh lẫn đất cát vào thức ăn), diện tích tham khảo ~10m² (3x3m, cao ~60cm). Đây là nơi xử lý phân trước khi cho ăn, đồng thời là kho dự trữ thức ăn.
 
 **Điều kiện sống của giun quế** (Perionyx excavatus): sống được ở 5-30°C, nhiệt độ tối ưu **25-30°C**. Đây là con số cần nhớ xuyên suốt toàn bộ quy trình xử lý phân — nhiều bước xử lý phân sinh nhiệt rất cao, phải để nguội về vùng nhiệt độ này mới được cho giun ăn (mục 4).
@@ -89,6 +138,12 @@ Giun quế sống được 5-30°C nhưng tối ưu 25-30°C. Một số vùng �
 - **Ruồi/ấu trùng ruồi**: phát sinh nếu thức ăn (đặc biệt phân heo, mục 4.2) chưa ủ hoai kỹ hoặc để lộ ngoài không khí quá lâu — phòng ngừa tốt nhất là tuân thủ đúng quy trình ủ ASP (mục 4), không phải xử lý khi đã phát sinh.
 - **Theo dõi định kỳ**: kiểm tra luống ít nhất 1 lần/ngày vào buổi sáng để phát hiện sớm dấu hiệu thiên địch (vết đào bới, giảm số lượng giun bất thường khi thu hoạch) trước khi thiệt hại lan rộng.
 
+**Video tham khảo tổng quan kỹ thuật nuôi giun quế cơ bản** (quay tại Việt Nam, dùng để hình dung trước khi bắt tay vào làm — số liệu cụ thể vẫn nên theo đúng các mục kỹ thuật của tài liệu này, vì mỗi nguồn có thể có chi tiết khác nhau đôi chút):
+
+- [Kỹ thuật nuôi giun quế đơn giản, hiệu quả cao | VTC16](https://www.youtube.com/watch?v=LFwgY2_QYcc)
+- [Nuôi giun quế chăn nuôi khép kín thu lãi cao | VTC16](https://www.youtube.com/watch?v=ZxexEEfmEDs)
+- [Lưu ý khi thả giống, chăm sóc và nhân bể giun quế](https://www.youtube.com/watch?v=XGqZdMRu0ZU)
+
 ---
 
 ## 2. Mô hình vận hành: tách 3 tuyến sản xuất (khuyến nghị công nghiệp) vs mô hình hỗn hợp (pilot đơn giản)
@@ -110,6 +165,62 @@ Cách nuôi phổ biến nhất tại Việt Nam (và cách mô tả mặc đị
 | **Tuyến 3 — Trại sản xuất** | Xử lý phân, sản xuất phân trùn quế và/hoặc giun thịt | Giun con đồng lứa từ Tuyến 2 + phân đã ủ ASP (mục 4) | Phân trùn quế thành phẩm + giun thịt (nếu chọn thu hoạch) |
 
 Vì Tuyến 3 luôn được thả bằng một lứa giun con **cùng độ tuổi**, tốc độ ăn/lớn của cả luống đồng đều hơn hẳn so với mô hình hỗn hợp — từ đó thời điểm thu hoạch và khối lượng đầu ra dự đoán được chính xác hơn, đúng theo lịch cố định thay vì khoảng ước lượng.
+
+**Sơ đồ luồng vận hành 3 tuyến**:
+
+<svg viewBox="0 0 750 260" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:750px;height:auto;font-family:sans-serif;">
+  <rect x="0" y="0" width="750" height="260" fill="#faf8f3"/>
+
+  <!-- Tuyến 1 box -->
+  <rect x="30" y="70" width="190" height="90" rx="8" fill="#ffffff" stroke="#5b7a4a" stroke-width="2"/>
+  <text x="125" y="92" font-size="13" font-weight="600" text-anchor="middle" fill="#3f5734">Tuyến 1</text>
+  <text x="125" y="108" font-size="11" text-anchor="middle" fill="#2b2620">Trại nhân giống</text>
+  <text x="125" y="126" font-size="10" text-anchor="middle" fill="#5a5248">giun bố mẹ đẻ kén</text>
+  <text x="125" y="141" font-size="10" text-anchor="middle" fill="#5a5248">~21-28 ngày/chu kỳ</text>
+
+  <!-- feedback loop arrow (giun bố mẹ quay lại) -->
+  <path d="M 60 70 C 30 40, 30 20, 90 20 C 150 20, 150 40, 130 70" fill="none" stroke="#8a8070" stroke-width="1.5" marker-end="url(#arrowGray)"/>
+  <text x="90" y="14" font-size="9" text-anchor="middle" fill="#5a5248">giun bố mẹ quay lại nuôi tiếp</text>
+
+  <!-- arrow 1 to 2 -->
+  <path d="M 220 115 L 275 115" stroke="#3f5734" stroke-width="2" marker-end="url(#arrowGreen)"/>
+  <text x="247" y="105" font-size="9" text-anchor="middle" fill="#3f5734">kén</text>
+
+  <!-- Tuyến 2 box -->
+  <rect x="280" y="70" width="190" height="90" rx="8" fill="#ffffff" stroke="#5b7a4a" stroke-width="2"/>
+  <text x="375" y="92" font-size="13" font-weight="600" text-anchor="middle" fill="#3f5734">Tuyến 2</text>
+  <text x="375" y="108" font-size="11" text-anchor="middle" fill="#2b2620">Trại ấp kén</text>
+  <text x="375" y="126" font-size="10" text-anchor="middle" fill="#5a5248">ấp kén thành giun con</text>
+  <text x="375" y="141" font-size="10" text-anchor="middle" fill="#5a5248">~21-30 ngày (cần kiểm chứng)</text>
+
+  <!-- arrow 2 to 3 -->
+  <path d="M 470 115 L 525 115" stroke="#3f5734" stroke-width="2" marker-end="url(#arrowGreen)"/>
+  <text x="497" y="105" font-size="9" text-anchor="middle" fill="#3f5734">giun con đồng lứa</text>
+
+  <!-- Tuyến 3 box -->
+  <rect x="530" y="70" width="190" height="90" rx="8" fill="#ffffff" stroke="#5b7a4a" stroke-width="2"/>
+  <text x="625" y="92" font-size="13" font-weight="600" text-anchor="middle" fill="#3f5734">Tuyến 3</text>
+  <text x="625" y="108" font-size="11" text-anchor="middle" fill="#2b2620">Trại sản xuất</text>
+  <text x="625" y="126" font-size="10" text-anchor="middle" fill="#5a5248">xử lý phân + nuôi lớn</text>
+  <text x="625" y="141" font-size="10" text-anchor="middle" fill="#5a5248">nhận phân ủ ASP (mục 4)</text>
+
+  <!-- output arrows from Tuyến 3 -->
+  <path d="M 600 160 L 570 210" stroke="#3f5734" stroke-width="1.5" marker-end="url(#arrowGreen)"/>
+  <text x="540" y="225" font-size="10" text-anchor="middle" fill="#2b2620">phân trùn quế</text>
+  <path d="M 650 160 L 680 210" stroke="#3f5734" stroke-width="1.5" marker-end="url(#arrowGreen)"/>
+  <text x="690" y="225" font-size="10" text-anchor="middle" fill="#2b2620">giun thịt</text>
+
+  <defs>
+    <marker id="arrowGreen" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L6,3 z" fill="#3f5734"/>
+    </marker>
+    <marker id="arrowGray" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L6,3 z" fill="#8a8070"/>
+    </marker>
+  </defs>
+</svg>
+
+*Sơ đồ minh họa vòng lặp 3 tuyến — Tuyến 1 vận hành liên tục độc lập, cung cấp giun con đồng lứa đều đặn cho nhiều luống Tuyến 3 (mục 2.6).*
 
 ### 2.3. Tuyến 1 — Trại nhân giống (Breeder)
 
@@ -208,9 +319,58 @@ Giun **không ăn được phân khô cứng hay phân "nóng" mới thải chư
 - Lặp lại xen kẽ các lớp phân/lớp vật liệu xốp như trên cho đến khi đống đạt chiều cao mục tiêu: khoảng **1,5-2,5m** cho quy mô có cơ giới hóa, hoặc thấp hơn (**1-1,2m**) vẫn hoạt động được ở quy mô nông hộ/pilot nhỏ — miễn đủ khối lượng để tự giữ nhiệt.
 - Sau khi đắp xong lớp cuối, phủ một lớp ngoài cùng bằng phân/compost đã hoai mục sẵn có hoặc rơm khô dày ~20-30cm (lớp "chăn cách nhiệt" — đảm bảo cả phần rìa ngoài đống ủ, nơi dễ mất nhiệt, cũng đạt nhiệt độ diệt mầm bệnh, không chỉ phần lõi), rồi tưới nước nhẹ cho đủ ẩm bề mặt.
 
+**Sơ đồ mặt cắt đống ủ ASP theo lớp**:
+
+<svg viewBox="0 0 620 340" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:560px;height:auto;font-family:sans-serif;">
+  <rect x="0" y="0" width="620" height="340" fill="#faf8f3"/>
+
+  <!-- outer insulating layer -->
+  <path d="M 90 300 L 130 60 L 400 60 L 440 300 Z" fill="#d8c9a3" stroke="#5a4a30" stroke-width="2"/>
+  <text x="265" y="50" font-size="11" text-anchor="middle" fill="#3f5734">lớp phủ ngoài (compost hoai/rơm khô ~20-30cm)</text>
+
+  <!-- alternating layers inside (manure vs bulking agent) -->
+  <g>
+    <rect x="150" y="240" width="220" height="20" fill="#8a6a45"/>
+    <rect x="150" y="220" width="220" height="20" fill="#c9a876"/>
+    <rect x="150" y="200" width="220" height="20" fill="#8a6a45"/>
+    <rect x="150" y="180" width="220" height="20" fill="#c9a876"/>
+    <rect x="150" y="160" width="220" height="20" fill="#8a6a45"/>
+    <rect x="150" y="140" width="220" height="20" fill="#c9a876"/>
+    <rect x="150" y="120" width="220" height="20" fill="#8a6a45"/>
+    <rect x="150" y="100" width="220" height="20" fill="#c9a876"/>
+  </g>
+  <text x="450" y="250" font-size="10" fill="#5a5248">■ phân (10-15cm)</text>
+  <rect x="435" y="243" width="10" height="10" fill="#8a6a45"/>
+  <text x="450" y="270" font-size="10" fill="#5a5248">■ vật liệu xốp (10cm)</text>
+  <rect x="435" y="263" width="10" height="10" fill="#c9a876"/>
+
+  <!-- air plenum layer -->
+  <rect x="150" y="280" width="220" height="20" fill="#e9dcc3" stroke="#8a8070" stroke-dasharray="3,2"/>
+  <text x="265" y="294" font-size="9" text-anchor="middle" fill="#3f5734">lớp đệm khí (trấu/rơm khô 20-30cm)</text>
+
+  <!-- aeration pipe -->
+  <rect x="180" y="300" width="160" height="10" rx="5" fill="#5b7a4a"/>
+  <circle cx="200" cy="305" r="1.5" fill="#faf8f3"/>
+  <circle cx="220" cy="305" r="1.5" fill="#faf8f3"/>
+  <circle cx="240" cy="305" r="1.5" fill="#faf8f3"/>
+  <circle cx="260" cy="305" r="1.5" fill="#faf8f3"/>
+  <circle cx="280" cy="305" r="1.5" fill="#faf8f3"/>
+  <circle cx="300" cy="305" r="1.5" fill="#faf8f3"/>
+  <circle cx="320" cy="305" r="1.5" fill="#faf8f3"/>
+  <text x="265" y="325" font-size="10" text-anchor="middle" fill="#2b2620">ống PVC đục lỗ (lỗ ~8mm, cách nhau ~50mm)</text>
+
+  <text x="265" y="75" font-size="13" font-weight="600" text-anchor="middle" fill="#2b2620">Cao 1-1,2m (nông hộ) / 1,5-2,5m (cơ giới hóa)</text>
+</svg>
+
+*Sơ đồ minh họa nguyên lý xếp lớp và vị trí ống dẫn khí — không theo tỷ lệ xây dựng thật, xem số liệu cụ thể ở các bước trên và bảng tóm tắt mục 12.*
+
 **Bước 4 — Theo dõi nhiệt độ và thời gian ủ (tiêu chuẩn diệt mầm bệnh)**: theo tiêu chuẩn kỹ thuật ASP được US EPA công nhận cho xử lý mầm bệnh (PFRP — Process to Further Reduce Pathogens), đống ủ cần đạt nhiệt độ tối thiểu **55°C, duy trì liên tục ít nhất 3 ngày** để diệt mầm bệnh/trứng ký sinh/hạt cỏ dại một cách đáng tin cậy (so với ủ đống thường không thổi khí, thường cần tới 15 ngày duy trì 55°C kèm đảo trộn nhiều lần mới đạt hiệu quả tương đương — ASP rút ngắn đáng kể thời gian nhờ cấp khí đều). Nên dùng nhiệt kế ủ phân (loại que dài cắm sâu vào đống ủ) đo trực tiếp ở nhiều vị trí (cả giữa và gần rìa đống) để xác nhận toàn khối đã đạt nhiệt, không chỉ đo một điểm.
 
 *Tham khảo thêm 3 cách ủ truyền thống (không dùng ASP, để đối chiếu thời gian nếu chưa lắp được hệ thống thổi khí)*: **ủ nóng** — tưới nước và đảo đống 1 lần mỗi 5-7 ngày, dùng được sau 3-4 tuần; **ủ nguội** — không đảo, dùng được sau 3 tháng; **ủ hỗn hợp** — nhiệt độ tự lên tới ~70°C sau 4-6 ngày, dùng được sau 2 tháng. ASP (khuyến nghị chính ở tài liệu này) cho tốc độ và độ tin cậy diệt mầm bệnh tốt hơn cả 3 cách trên nhờ cấp khí đều toàn khối.
+
+**Video tham khảo kỹ thuật ủ phân hữu cơ** (chưa tìm được video tiếng Việt nào quay riêng phương pháp ASP có ống thổi khí cưỡng bức — đây là khoảng trống cần lưu ý; video dưới đây quay theo cách ủ truyền thống không có hệ thống ống dẫn khí, dùng để hình dung chung về xếp lớp/tưới ẩm, còn nguyên lý cấp khí qua ống PVC ở Bước 2-3 trên đây là điểm khác biệt chính của ASP so với cách ủ trong video):
+
+- [Kỹ thuật ủ phân hữu cơ bón cho cây trồng | VTC16](https://www.youtube.com/watch?v=nGqGU7yYO-c)
 
 **Bước 5 — Có thể bổ sung EM để tăng tốc và giảm mùi (không bắt buộc nếu đã làm đúng ASP)**: nếu vẫn muốn dùng chế phẩm EM, có thể tưới bổ sung khi phối trộn nguyên liệu ở Bước 1 hoặc giữa các lớp ở Bước 3 để thúc đẩy hệ vi sinh phân giải nhanh hơn và giảm mùi hôi trong quá trình ủ — nhưng lưu ý: cơ chế diệt mầm bệnh chính của ASP là **nhiệt độ + thời gian** (Bước 4), EM chỉ đóng vai trò hỗ trợ tốc độ phân hủy/khử mùi, không thay thế được yêu cầu nhiệt độ/thời gian tối thiểu.
 
