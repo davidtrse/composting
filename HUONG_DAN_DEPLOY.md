@@ -1,6 +1,6 @@
 # Hướng dẫn đưa website lên GitHub Pages
 
-File `index.html` đã được build sẵn từ file kế hoạch kinh doanh (`Ke_hoach_kinh_doanh_gai_xanh_Lao.md`), có khóa mật khẩu ở trang đầu.
+File `index.html` đã được build sẵn từ 4 tài liệu đã tách riêng: 2 bản Đề xuất kinh doanh (sợi gai xanh, phân trùn quế) và 2 bản Hướng dẫn kỹ thuật (trồng gai xanh, nuôi trùn quế) — có khóa mật khẩu ở trang đầu, chọn xem từng tài liệu qua các nút tab phía trên nội dung.
 
 ## 1. Cảnh báo quan trọng về bảo mật (đọc trước khi dùng)
 
@@ -12,8 +12,8 @@ File `index.html` đã được build sẵn từ file kế hoạch kinh doanh (`
 
 ## 2. Cấu trúc file cần đưa lên
 
-Trong thư mục output của phiên làm việc này có:
-- `site_build/index.html` — toàn bộ website (tự chứa, không cần file phụ)
+Chỉ cần duy nhất 1 file:
+- `index.html` — toàn bộ website (tự chứa cả 4 tài liệu, không cần file phụ, không cần các file `.md` gốc)
 
 ## 3. Các lệnh git để push lên davidtrse/composting
 
@@ -55,4 +55,14 @@ Mở link đó, nhập mật khẩu **binhminh2026** để xem nội dung.
 
 ## 5. Cập nhật nội dung sau này
 
-Mỗi khi sửa file kế hoạch kinh doanh (`.md`), cần build lại `index.html` rồi push lại (`git add`, `git commit`, `git push`) — quay lại đây nhờ tôi build lại bản HTML mới bất cứ lúc nào bạn cần.
+Mỗi khi sửa bất kỳ file `.md` nào trong 4 tài liệu, cần build lại `index.html` rồi push lại (`git add`, `git commit`, `git push`) — quay lại đây nhờ tôi build lại bản HTML mới bất cứ lúc nào bạn cần.
+
+## 6. Đã đổi từ 1 tài liệu sang 4 tài liệu tách riêng
+
+Bản trước đây gộp toàn bộ kế hoạch vào 1 file duy nhất (`Ke_hoach_kinh_doanh_gai_xanh_Lao.md`). Nay đã tách thành 4 file riêng để dễ đọc theo từng mục đích:
+- `01_De_xuat_kinh_doanh_soi_gai_xanh.md` — Proposal sợi gai xanh
+- `02_Ky_thuat_trong_gai_xanh.md` — Kỹ thuật trồng gai xanh (3 giai đoạn: ươm giống, trồng/chăm sóc, thu hoạch)
+- `03_De_xuat_kinh_doanh_phan_trun_que.md` — Proposal phân trùn quế
+- `04_Ky_thuat_nuoi_trun_que.md` — Kỹ thuật nuôi trùn quế (bao gồm mô hình 3 tuyến sản xuất, ủ ASP, quy trình xuất khẩu)
+
+Website `index.html` gộp cả 4 file này lại thành 1 trang, có tab chuyển đổi giữa các tài liệu — vẫn dùng chung 1 mật khẩu **binhminh2026**.
