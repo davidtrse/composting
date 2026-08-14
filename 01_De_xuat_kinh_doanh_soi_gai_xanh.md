@@ -154,6 +154,27 @@ Giá netback hòa vốn theo từng mức năng suất: 1,5 tấn/ha/năm → h�
 
 Các con số trong mục này dựa trên dữ liệu thị trường quan sát được (giá kênh trung gian Việt Nam, giá tham khảo Trung Quốc, ước tính chi phí phân bón/lao động theo giáo trình kỹ thuật) — **chưa phải chi phí thực đo tại một ruộng gai xanh vận hành thật ở Lào**. Đây chính xác là lý do Commercial Trial 2 ha là bước bắt buộc trước khi mở rộng, không phải một bước có thể bỏ qua để tiết kiệm thời gian.
 
+### 6.6. Đường cong năng suất năm đầu (ramp-up) — chưa tính trong bảng 6.2-6.4
+
+**Cảnh báo quan trọng**: mức năng suất 1,5-4,5 tấn/ha/năm dùng trong bảng 6.2 và ma trận 6.3 nhiều khả năng phản ánh **năng suất ổn định** (năm thứ 2-3 trở đi, khi bộ rễ đã phát triển đầy đủ qua nhiều lứa), không phải năng suất năm trồng đầu tiên. Gai xanh là cây lâu năm — thông lệ chung với cây lâu năm là năng suất năm 1 thấp hơn đáng kể so với năng suất ổn định, tăng dần qua các năm. Tài liệu kỹ thuật trồng (mục 3, giáo trình gốc) không nêu rõ tỷ lệ năng suất năm 1 so với năng suất ổn định cho riêng cây gai xanh — đây là khoảng trống số liệu cần đo trực tiếp trong Commercial Trial.
+
+**Hệ quả cho mô hình tài chính**: nếu dùng nguyên mức 1,5-4,5 tấn/ha/năm cho cả năm đầu tiên, dòng tiền Giai đoạn 1 sẽ bị ước tính cao hơn thực tế. Khi phân tích kết quả Commercial Trial, cần tách riêng "năng suất năm 1" và "năng suất ổn định" thành hai con số khác nhau trong báo cáo, không gộp chung — đây là việc bổ sung bắt buộc trước khi dùng dữ liệu Commercial Trial để quyết định mở rộng lên 10ha.
+
+### 6.7. CAPEX ước tính ban đầu và thời gian hoàn vốn (cần xác thực tại Lào)
+
+Bảng 6.2-6.4 chỉ tính chi phí vận hành theo USD/kg — **chưa có ngân sách đầu tư ban đầu (CAPEX)**, vốn quyết định số tiền mặt cần có trước khi thu được đồng doanh thu đầu tiên. Các khoản mục CAPEX cần lập ngân sách cho Commercial Trial 2ha (chưa có số liệu thật, cần báo giá cụ thể tại Lào trước khi cam kết vốn):
+
+| Khoản mục CAPEX | Vì sao cần | Ghi chú |
+|---|---|---|
+| Khai hoang/cải tạo đất, hệ thống thoát nước ruộng | Bắt buộc trước khi trồng (mục 3.1 tài liệu kỹ thuật) | Chưa có báo giá tại Savannakhet/Vientiane |
+| Hệ thống tưới (nếu không đủ nước mưa mùa khô) | Xem mục 3.7 tài liệu kỹ thuật trồng (mới bổ sung) | Phụ thuộc nguồn nước tại chỗ, cần khảo sát |
+| Nhà phơi/sơ chế + sân phơi | Bắt buộc đạt chuẩn ẩm ≤14% (mục 4.2 tài liệu kỹ thuật) | Quy mô nhỏ có thể dùng sân phơi tạm thời cho 2ha |
+| Máy tuốt vỏ (thủ công/bán cơ giới) | Bắt buộc cho Giai đoạn 3 (mục 4.1 tài liệu kỹ thuật) | Có thể thuê thay vì mua ở quy mô 2ha |
+| Phương tiện vận chuyển nội bộ + ra cửa khẩu | Vận chuyển vỏ khô đã đóng kiện | Chưa xác minh giá cước thực tế (mục 7.1, Priority 2) |
+| Đất/công trình phụ trợ (kho, hàng rào) | Bảo quản vật tư, hạn chế thất thoát | Quy mô nhỏ, chi phí thấp |
+
+**Nguyên tắc áp dụng**: không cam kết vốn Commercial Trial cho đến khi có báo giá thật cho từng khoản trên — bảng này chỉ để nhận diện đầy đủ các khoản mục cần hỏi giá, không phải số liệu tài chính chính thức. Thời gian hoàn vốn thực tế phụ thuộc vào tổng CAPEX này cộng với năng suất ramp-up (mục 6.6) — chưa thể tính chính xác cho đến khi có cả hai số liệu.
+
 ---
 
 ## 7. Lộ trình triển khai và kill criteria
@@ -187,6 +208,9 @@ Nếu sau Commercial Trial 2 ha, dữ liệu thực tế cho thấy: năng suấ
 | Cạnh tranh giá từ viscose làm thu hẹp khoảng cách định vị | Trung bình, dài hạn | Theo dõi giá viscose định kỳ như chỉ báo cạnh tranh (mục 4) |
 | Phụ thuộc một khách hàng duy nhất (Hồ Bắc Tinh Hoa) | Trung bình | Xây dựng đồng thời ≥2 đầu mối dự phòng (Dazhu/Texhong-Yati, Kinh Châu) ngay từ Priority 1 |
 | Rủi ro chính sách thương mại Lào-Trung Quốc thay đổi | Thấp-Trung bình | Theo dõi chính sách xuất nhập khẩu định kỳ, không nằm trong phạm vi kiểm soát trực tiếp của dự án |
+| **Đất đai/pháp lý**: chưa xác định hình thức sở hữu/thuê đất, thủ tục concession cho nhà đầu tư nước ngoài có thể mất nhiều tháng | Cao — chưa kiểm chứng | Làm việc với cơ quan quản lý đất đai địa phương (Savannakhet/Vientiane) và tư vấn pháp lý Lào **trước** khi chọn Priority 1-2 (mục 7.1), không đợi đến khi có buyer mới xử lý |
+| **Tỷ giá/kiểm soát vốn**: doanh thu bằng USD, chi phí chủ yếu bằng Kip (đồng Kip đã mất giá mạnh trong quá khứ); Lào từng có giai đoạn hạn chế chuyển đổi ngoại tệ | Trung bình, dài hạn | Theo dõi tỷ giá LAK/USD định kỳ; xác minh trước quy định chuyển đổi/chuyển tiền ra nước ngoài hiện hành khi thiết lập kênh thanh toán với đối tác |
+| **Thanh toán xuyên biên giới**: bán cho đối tác Trung Quốc/Việt Nam lần đầu, chưa có track record, rủi ro chậm/từ chối thanh toán sau khi giao hàng | Trung bình-Cao — chưa kiểm chứng | Yêu cầu đặt cọc/L-C (thư tín dụng) hoặc thanh toán một phần trước cho các lô hàng đầu tiên; không giao hàng số lượng lớn cho đối tác mới mà chưa có điều khoản thanh toán rõ ràng bằng văn bản |
 
 ---
 

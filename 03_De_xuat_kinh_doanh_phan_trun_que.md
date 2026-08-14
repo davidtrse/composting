@@ -164,6 +164,21 @@ Mục tiêu bón lót 2ha gai xanh cần 5-35 tấn phân trùn quế tùy kịc
 
 Toàn bộ số liệu chi phí đầu vào trong mục này dựa trên tham khảo giá Việt Nam và ước tính tỷ lệ chuyển đổi phân đầu vào/đầu ra chưa được xác minh tại điều kiện Lào — đây chính là lý do Giai đoạn 1 (pilot) là bước bắt buộc, không phải bước có thể bỏ qua.
 
+### 6.5. CAPEX ước tính cho khu nuôi giun pilot (cần xác thực tại Lào)
+
+Mục 6.1-6.4 chỉ tính chi phí đầu vào/vận hành theo tấn — **chưa có ngân sách đầu tư ban đầu**. Các khoản mục CAPEX cần lập ngân sách trước khi bắt đầu pilot (chưa có báo giá thật, cần khảo sát tại vùng dự kiến):
+
+| Khoản mục CAPEX | Vì sao cần | Ghi chú |
+|---|---|---|
+| Xây luống/chuồng nuôi (nổi, chìm, hoặc nền đất) | Bắt buộc — xem so sánh 3 phương án ở tài liệu kỹ thuật, mục 1 | Nền đất + lưới lót rẻ nhất; luống chìm cần khảo sát thoát nước trước |
+| Bể ủ/chứa thức ăn (tráng xi măng) | Bắt buộc, nơi xử lý phân trước khi cho ăn | ~10m² tham khảo cho quy mô pilot |
+| Hệ thống ống dẫn khí ASP (PVC đục lỗ) + quạt thổi (nếu chọn active) | Bắt buộc nếu ủ theo ASP (mục 4 tài liệu kỹ thuật) | Passive ASP (không quạt) rẻ hơn, phù hợp pilot chưa có điện ổn định |
+| Giống sinh khối giun ban đầu (10-20% mục tiêu, theo phương án tiết kiệm CAPEX) | Bắt buộc để khởi động đàn | Xem mục 9, Bước 4 tài liệu kỹ thuật |
+| Dụng cụ (xẻng, nhiệt kế ủ phân, bình tưới, bao bì) | Vận hành hàng ngày | Chi phí thấp |
+| Nguồn nước ổn định (giếng khoan/bể trữ, nếu chưa có sẵn) | Giữ ẩm luống + ủ ASP quanh năm, đặc biệt mùa khô | Xem mục 1.5 tài liệu kỹ thuật (mới bổ sung) — chưa có số liệu chi phí thật tại Lào |
+
+**Nguyên tắc áp dụng**: giống như tài liệu Dòng 1 (sợi gai xanh), không cam kết vốn pilot cho đến khi có báo giá thật cho từng khoản — bảng này chỉ để nhận diện đầy đủ các khoản mục cần hỏi giá.
+
 ---
 
 ## 7. Lộ trình triển khai và kill criteria
@@ -191,6 +206,7 @@ Nếu chi phí delivered-to-farm thực đo cao hơn đáng kể so với giá t
 | Cạnh tranh giá từ phân hữu cơ thông thường rẻ hơn | Trung bình | Truyền thông rõ chênh lệch hiệu quả nông học (+26% so với +20%, Blouin et al. 2019) để biện minh giá cao hơn |
 | Rủi ro kỹ thuật (giun chết do phân chưa ủ hoai/pH không phù hợp) | Trung bình | Tuân thủ nghiêm quy trình ủ nóng EM trước khi cho ăn (xem tài liệu kỹ thuật, mục 3) |
 | Biến động giá phân hóa học giảm trở lại làm giảm động lực chuyển đổi | Thấp-Trung bình | Không phụ thuộc hoàn toàn vào chênh lệch giá tạm thời — giá trị cốt lõi vẫn là hiệu quả nông học và giảm phụ thuộc nhập khẩu |
+| **Đất đai/pháp lý và tỷ giá/kiểm soát vốn** — rủi ro chung của toàn dự án, không riêng Dòng 3 | Cao/Trung bình — chưa kiểm chứng | Xem phân tích đầy đủ ở đề xuất kinh doanh Dòng 1 (sợi gai xanh), mục 8 — Dòng 3 dùng chung mặt bằng đất và chịu chung rủi ro tỷ giá với Dòng 1, không cần lặp lại phân tích riêng |
 
 ---
 

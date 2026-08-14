@@ -187,6 +187,28 @@ Trước khi trồng đại trà, cây giống (dù từ hạt hay hom) cần đ
 
 *Nguyên tắc chung quan trọng nhất*: phụ phẩm thân/lá sau thu hoạch PHẢI rải đều hoặc ủ hoai mục hoàn toàn trước khi dùng lại làm phân — dồn đống chưa phân hủy là nguyên nhân trực tiếp gây bệnh mốc trắng và lở cổ rễ, hai bệnh hại nghiêm trọng nhất ghi nhận trên cây gai xanh.
 
+### 3.6. An toàn lao động khi phun thuốc và xử lý phân bón
+
+**Đây là mục bị bỏ sót phổ biến nhất trong các tài liệu kỹ thuật nông nghiệp — không phải vì không quan trọng, mà vì người viết giáo trình mặc định người đọc đã biết.** Người CHƯA từng làm nông cần được nói rõ:
+
+- **Đồ bảo hộ tối thiểu khi phun thuốc** (mục 3.5: Imidacloprid, Buproferin, Ridomil Gold, Aliette hoặc thuốc trừ bệnh thán thư): khẩu trang, găng tay cao su, kính bảo hộ, áo dài tay, ủng — không phun ngược chiều gió, không phun khi không có đồ bảo hộ dù chỉ "phun nhanh một chút".
+- **Thời gian cách ly sau phun (PHI — pre-harvest interval)**: tài liệu gốc không nêu số ngày cách ly cụ thể cho từng loại thuốc dùng ở mục 3.5 — đây là thông tin BẮT BUỘC phải đọc trên nhãn thuốc thật khi mua (nhà sản xuất luôn in rõ), không tự suy đoán hoặc áp dụng số ngày của thuốc khác. Không thu hoạch/vào ruộng trong thời gian cách ly ghi trên nhãn.
+- **Rửa tay/tắm rửa sạch sau khi phun thuốc hoặc xử lý phân bón** (đặc biệt phân chuồng chưa ủ hoai, mục 3.3) — trước khi ăn uống, hút thuốc.
+- **Bảo quản thuốc BVTV**: nơi khô ráo, có khóa, xa tầm tay trẻ em và xa nguồn nước sinh hoạt/tưới tiêu; không đổ thuốc thừa hoặc rửa bình phun xuống kênh mương/ao gần ruộng.
+- **Vỏ chai/bao bì thuốc đã dùng**: thu gom vào một điểm riêng, không đốt/chôn tùy tiện, không tái sử dụng đựng nước/thực phẩm — nếu địa phương có điểm thu gom bao bì thuốc BVTV thì mang đến đó.
+- **Phụ nữ mang thai/cho con bú và trẻ em**: không nên là người trực tiếp phun thuốc.
+
+*Ghi chú phương pháp*: các mốc cụ thể (tên hoạt chất, liều lượng) lấy từ giáo trình gốc mục 3.5 — nhưng số ngày cách ly (PHI) và hướng dẫn an toàn chi tiết theo nhãn sản phẩm thật cần xác nhận lại khi mua thuốc thực tế tại Lào, vì nhãn thuốc có thể khác nhau tùy nhà sản xuất/nước nhập khẩu.
+
+### 3.7. Nước tưới và ứng phó mùa khô
+
+**Vấn đề cần lường trước**: Lào có mùa khô rõ rệt (khoảng tháng 11 đến tháng 4), trong khi tài liệu mục 3.4 chỉ nói "tưới đủ ẩm" mà chưa chỉ rõ tưới bằng nguồn nước nào và cần bao nhiêu — hai câu hỏi này quyết định cả chi phí CAPEX (xem đề xuất kinh doanh, mục 6.7) lẫn khả năng cây sống sót qua mùa khô đầu tiên.
+
+- **Nguồn nước khả dĩ tại Savannakhet/đồng bằng Vientiane**: giếng khoan tại chỗ, bể/ao trữ nước mưa tích từ mùa mưa trước, hoặc kênh mương dẫn từ sông/suối gần nhất (nếu ruộng đủ gần). Cần khảo sát cụ thể tại từng lô đất trước khi chọn — không giả định "có nước mưa là đủ", đặc biệt cho ruộng mới trồng (giai đoạn cây con nhạy cảm nhất với thiếu nước).
+- **Cách tưới**: tưới nhỏ giọt tiết kiệm nước hơn nhưng chi phí lắp đặt cao hơn; tưới thủ công (gánh/bình) rẻ nhưng tốn nhân công, chỉ khả thi ở quy mô nhỏ (phù hợp Commercial Trial 2ha).
+- **Lượng nước cần/ha/mùa khô**: tài liệu gốc không nêu con số cụ thể cho gai xanh — đây là số liệu CẦN đo thực tế trong Commercial Trial (theo dõi độ ẩm đất bằng máy đo cầm tay ở mục 5, kết hợp quan sát biểu hiện cây), không tự giả định một con số trước khi có dữ liệu thật.
+- **Ưu tiên vùng trồng có sẵn khả năng tưới**: khi chọn lô đất ở mục 3.1, nên ưu tiên khu vực gần nguồn nước ổn định hơn là chỉ dựa vào chỉ số pH/N-P-K — thiếu nước mùa khô có thể gây thiệt hại nặng hơn cả sâu bệnh.
+
 ---
 
 ## 4. GIAI ĐOẠN 3 — Thu hoạch và sơ chế
@@ -221,6 +243,15 @@ Chỉ số sợi của lô hàng phải đạt ≥1.800; màu sắc tiêu chuẩ
 Wqđ = Whh × (100% − I − Đ) × (100 − Att) / (100 − Aqđ)
 ```
 Trong đó: Wqđ = khối lượng quy đổi (kg); Whh = khối lượng thực tế (kg); Aqđ = độ ẩm quy định (%); Att = độ ẩm thực tế (%); I = tỷ lệ tạp chất (%); Đ = tỷ lệ đốm đỏ/sẹo/đỏ gốc (%).
+
+### 4.3. Ước tính nhân công thu hoạch (cần đo thực tế — chưa có số liệu chính xác từ nguồn tra cứu)
+
+**Vì sao cần tính trước, không chỉ tính sau khi thu hoạch**: chuỗi thao tác chặt → dóc lá → tuốt vỏ cần thực hiện gần như liên tục trong ngày để giữ chất lượng sợi (mục 4.1: "tuốt ngay sau khi chặt, không để lâu mất nước, giảm chất lượng sợi") — nếu không đủ người xử lý kịp trong ngày, phần thân chặt xong nhưng chưa tuốt vỏ sẽ giảm chất lượng, ảnh hưởng trực tiếp đến phân loại thương phẩm (mục 4.2).
+
+- **Giáo trình gốc không nêu số liệu công lao động/ha/ngày** cho chuỗi thao tác này — đây là khoảng trống cần đo trực tiếp trong Commercial Trial 2ha, không tự giả định một con số.
+- **Cách ước tính an toàn cho lần thu hoạch đầu tiên**: bắt đầu với một tổ nhỏ (ví dụ 3-4 người: 1 người chặt, 1-2 người dóc lá, 1 người vận hành máy tuốt vỏ), thử nghiệm trên một khoảnh nhỏ (ví dụ 500m²-1.000m²) trước, đo thời gian thực tế hoàn tất cả 3 bước cho khoảnh đó, rồi nhân tỷ lệ ra cho toàn bộ 2ha để ước tính số người/số ngày cần huy động cho lứa thu hoạch tiếp theo — không huy động toàn bộ nhân công cho 2ha ngay từ lứa đầu khi chưa biết năng suất xử lý thực tế của một tổ.
+- **Yếu tố cần theo dõi thêm**: số máy tuốt vỏ hiện có quyết định tốc độ xử lý tối đa trong ngày dù có đủ người chặt/dóc lá — nếu chỉ có 1 máy, đây có thể là nút thắt cổ chai thực sự, không phải số người lao động.
+- **Thời tiết**: mục 4.1 yêu cầu "thu vào ngày nắng ráo" để phơi đạt chuẩn ẩm ≤14% (mục 4.2) — cần có phương án dự phòng (hoãn thu hoạch vài ngày, hoặc có mái che/máy sấy hỗ trợ) nếu gặp mưa kéo dài đúng lúc lứa cây đã sẵn sàng thu hoạch, tránh để cây quá lứa gây giảm chất lượng.
 
 ---
 

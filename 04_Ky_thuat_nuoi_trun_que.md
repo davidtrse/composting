@@ -63,6 +63,32 @@ Không đào âm cũng không xây tường — chỉ lót lưới mịn trên m
 
 **Điều kiện sống của giun quế** (Perionyx excavatus): sống được ở 5-30°C, nhiệt độ tối ưu **25-30°C**. Đây là con số cần nhớ xuyên suốt toàn bộ quy trình xử lý phân — nhiều bước xử lý phân sinh nhiệt rất cao, phải để nguội về vùng nhiệt độ này mới được cho giun ăn (mục 4).
 
+### 1.5. Nguồn nước và ứng phó mùa khô
+
+**Vấn đề cần lường trước**: Lào có mùa khô rõ rệt (khoảng tháng 11 đến tháng 4). Cả luống nuôi giun lẫn đống ủ ASP (mục 4) đều cần độ ẩm ổn định quanh năm (độ ẩm ủ ASP mục tiêu 50-60%; luống nuôi cũng cần giữ ẩm liên tục để giun sống được) — nếu không có nguồn nước ổn định trong mùa khô, cả hai khâu này đều có thể thất bại.
+
+- **Nguồn nước khả dĩ**: giếng khoan tại chỗ (chi phí đầu tư ban đầu cao hơn nhưng ổn định quanh năm), bể/ao trữ nước mưa tích từ mùa mưa trước (rẻ hơn nhưng cần tính đủ dung tích cho cả mùa khô), hoặc chở nước bằng xe bồn nếu khu vực xa nguồn nước (chi phí biến đổi cao, chỉ nên là phương án dự phòng chứ không phải nguồn chính).
+- **Lượng nước cần/m² luống/ngày**: chưa có số liệu chính xác từ nguồn tra cứu cho điều kiện khí hậu Lào — cần đo thực tế trong Giai đoạn 1 (theo dõi lượng nước tưới thực tế + độ ẩm chất nền bằng cách bóp tay, mục 4 Bước 1) rồi lập kế hoạch dự trữ nước cho mùa khô dựa trên số đo này.
+- **Khi chọn vị trí xây luống/bể ủ (mục 1.1-1.3)**: nên ưu tiên gần nguồn nước ổn định hơn là chỉ dựa vào tiêu chí thoát nước/chi phí xây dựng — thiếu nước mùa khô là rủi ro vận hành thực tế hơn rủi ro úng nước mùa mưa ở nhiều vị trí.
+
+### 1.6. Ứng phó nhiệt độ lạnh bất thường
+
+Giun quế sống được 5-30°C nhưng tối ưu 25-30°C. Một số vùng đồng bằng Lào (kể cả Savannakhet, Vientiane) có thể có những đợt đêm lạnh xuống dưới 15-18°C vào khoảng tháng 12-1 — không đủ để giun chết nhưng đủ để làm chậm tốc độ ăn/sinh sản, ảnh hưởng đến lịch thu hoạch dự kiến (mục 6-7).
+
+- **Dấu hiệu cần theo dõi**: đo nhiệt độ chất nền bằng nhiệt kế ủ phân vào buổi sáng sớm (thời điểm lạnh nhất trong ngày) trong các tháng 12-1, không chỉ đo nhiệt độ không khí.
+- **Cách ứng phó nếu nhiệt độ chất nền xuống thấp**: tăng độ dày lớp chất nền/sinh khối (giữ nhiệt tốt hơn lớp mỏng); phủ thêm lớp rơm khô hoặc bao tải lên bề mặt luống vào ban đêm, bỏ ra ban ngày khi trời ấm lại; giảm tần suất cho ăn trong những ngày lạnh nhất (giun ăn ít hơn khi lạnh, cho ăn nhiều dễ dư thừa thức ăn gây hỏng); với luống chìm, lợi thế cách nhiệt tự nhiên của đất (mục 1.2) phát huy tác dụng rõ nhất trong giai đoạn này.
+- **Lưu ý**: đây là hướng dẫn ứng phó chung dựa trên nguyên lý sinh học của giun, chưa có số liệu nhiệt độ thực đo tại từng vùng cụ thể của Lào — cần theo dõi nhiệt độ thực tế tại vị trí trại trong mùa lạnh đầu tiên để biết mức độ nghiêm trọng thực sự trước khi đầu tư thêm biện pháp giữ ấm tốn kém (ví dụ nhà kính/màng phủ cố định).
+
+### 1.7. Phòng ngừa thiên địch/dịch hại luống nuôi
+
+Đây là vấn đề thực tế rất phổ biến với người mới nuôi giun nhưng thường không được nhắc đến trong tài liệu kỹ thuật vì được coi là "hiển nhiên" với người có kinh nghiệm:
+
+- **Kiến**: có thể vào luống ăn trứng/giun non với số lượng lớn nếu không ngăn chặn. Biện pháp: đào rãnh nhỏ chứa nước hoặc rắc vôi bột/tro bếp quanh chân luống (kiến ngại bò qua), giữ khu vực quanh luống sạch sẽ không có tổ kiến gần đó.
+- **Cóc, ếch, chim**: ăn giun trên bề mặt luống, đặc biệt khi cho ăn nổi (mục 5.1) để lộ giun ra ngoài. Lớp lưới đen che bề mặt (đã nêu ở mục 5.2 cho cho ăn chìm) cũng nên cân nhắc dùng cho cả luống cho ăn nổi vào ban đêm — thời điểm chim/cóc hoạt động mạnh.
+- **Chuột**: có thể đào bới luống hoặc phá bể chứa thức ăn — nên có nắp đậy chắc chắn cho bể ủ/chứa thức ăn (mục 1, "Bể ủ/chứa thức ăn").
+- **Ruồi/ấu trùng ruồi**: phát sinh nếu thức ăn (đặc biệt phân heo, mục 4.2) chưa ủ hoai kỹ hoặc để lộ ngoài không khí quá lâu — phòng ngừa tốt nhất là tuân thủ đúng quy trình ủ ASP (mục 4), không phải xử lý khi đã phát sinh.
+- **Theo dõi định kỳ**: kiểm tra luống ít nhất 1 lần/ngày vào buổi sáng để phát hiện sớm dấu hiệu thiên địch (vết đào bới, giảm số lượng giun bất thường khi thu hoạch) trước khi thiệt hại lan rộng.
+
 ---
 
 ## 2. Mô hình vận hành: tách 3 tuyến sản xuất (khuyến nghị công nghiệp) vs mô hình hỗn hợp (pilot đơn giản)
@@ -205,6 +231,17 @@ Giun **không ăn được phân khô cứng hay phân "nóng" mới thải chư
 ### 4.3. Nguyên tắc an toàn khi mua phân từ nhiều nguồn tại Lào
 
 Không cho ăn đại trà một loại phân lạ/mới với số lượng lớn ngay — thử nghiệm trên một khu vực nhỏ trước để xem phản ứng của trùn, đồng thời kiểm tra pH hỗn hợp trước khi cho ăn diện rộng. **Không bỏ qua bước ủ nóng diệt mầm bệnh dù là phân trâu/bò "sạch" nhất** — vì nguồn phân mua từ nhiều hộ chăn thả rông khác nhau tại Lào chưa có kiểm dịch, không thể giả định an toàn sinh học chỉ vì là phân trâu/bò.
+
+### 4.4. An toàn lao động khi xử lý phân
+
+Người trực tiếp thu gom, đánh nhuyễn, đảo đống ủ tiếp xúc thường xuyên với phân tươi chưa qua xử lý — đây là nguồn rủi ro sức khỏe (vi khuẩn, trứng ký sinh trùng/giun sán từ gia súc chăn thả rông, mục 4) cần lưu ý, đặc biệt vì tài liệu này viết cho người CHƯA từng làm việc này:
+
+- **Đồ bảo hộ tối thiểu**: găng tay cao su, ủng, khẩu trang khi xúc/đánh nhuyễn phân tươi hoặc phân chưa ủ hoai hoàn toàn — đặc biệt trong bước xử lý phân heo (mục 4.2) và khi cân/đóng bao tại điểm thu gom.
+- **Rửa tay/tắm rửa sạch bằng xà phòng ngay sau khi kết thúc công việc**, trước khi ăn uống — không đợi về nhà mới rửa nếu công việc kéo dài cả buổi.
+- **Vết thương hở**: không tiếp xúc trực tiếp với phân/nước thải khi tay có vết trầy xước, vết thương chưa lành — băng kín và đeo găng tay trước khi làm việc.
+- **Nếu dùng phương án ủ biogas cho phân heo (mục 4.2)**: bể biogas kín có thể tích khí metan/H2S — không đưa đầu/mặt sát miệng bể khi mở nắp kiểm tra, đảm bảo thông gió trước khi thao tác gần bể.
+- **Trẻ em không nên tiếp xúc trực tiếp với khu vực xử lý phân/bể ủ** — nguy cơ nhiễm khuẩn cao hơn người lớn.
+- **Tiêm phòng uốn ván** nên cân nhắc cho người trực tiếp làm việc lâu dài với phân chuồng và dụng cụ đất (xẻng, cuốc) — khuyến nghị chung về an toàn lao động nông nghiệp, không phải yêu cầu riêng của quy trình này.
 
 ---
 
