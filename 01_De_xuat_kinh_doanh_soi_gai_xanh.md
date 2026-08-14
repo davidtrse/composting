@@ -35,7 +35,7 @@ Thứ hai, **giá đã tăng liên tục trong 5 năm qua vì lý do cấu trúc
 
 Thứ ba, **rủi ro bị sợi tổng hợp/viscose thay thế hoàn toàn thấp hơn nhiều ngành dệt khác** — vì gai xanh đang được định vị như một chất liệu "premium, bền vững, kháng khuẩn tự nhiên" chứ không cạnh tranh trực tiếp bằng giá với polyester giá rẻ (mục 4). Rủi ro thật không phải "mất thị trường vào tay sợi tổng hợp", mà là "biên lợi nhuận netback tại Lào thấp hơn kỳ vọng vì logistics/chiết khấu trung gian" — đây chính xác là câu hỏi mà Commercial Trial phải trả lời trước khi mở rộng.
 
-**Con số quyết định duy nhất cần nhớ**: netback price tại farm gate base case 1.600-2.000 USD/tấn, hòa vốn chỉ cần ~933 USD/tấn ở năng suất thấp nhất (1,5 tấn/ha) — biên an toàn giá hiện tại rộng, nhưng chưa được kiểm chứng bằng dữ liệu thực địa Lào (mục 6).
+**Con số quyết định duy nhất cần nhớ**: netback price tại farm gate base case 1.600-2.000 USD/tấn, hòa vốn chỉ cần ~933 USD/tấn ở năng suất thấp nhất (1,5 tấn/ha/năm) — biên an toàn giá hiện tại rộng, nhưng chưa được kiểm chứng bằng dữ liệu thực địa Lào (mục 6).
 
 ---
 
@@ -129,7 +129,9 @@ Câu hỏi tài chính trung tâm: 1kg vỏ gai khô sản xuất tại Lào, sa
 
 ### 6.2. Cơ cấu chi phí theo USD/kg (KPI đúng, không phải USD/ha)
 
-| Năng suất (tấn/ha) | Chi phí cố định quy về USD/kg | Chi phí biến đổi (USD/kg) | **Tổng chi phí/kg** |
+*Lưu ý: "Năng suất (tấn/ha)" trong bảng dưới đây là **tổng sản lượng cả năm trên 1ha, cộng dồn tất cả các lứa thu hoạch** (thường 2-3 lứa/năm với cây gai xanh — xem mục 3.3 và 4 của tài liệu Kỹ thuật trồng), không phải sản lượng của riêng một lứa. Ví dụ mức 4,5 tấn/ha khớp với năng suất giống Trung Trữ số 1 (~3.300-4.500kg/ha/năm, mục 3.2 tài liệu Kỹ thuật trồng) — con số đó vốn đã là năng suất năm, cộng dồn từ nhiều lứa.*
+
+| Năng suất (tấn/ha/năm) | Chi phí cố định quy về USD/kg | Chi phí biến đổi (USD/kg) | **Tổng chi phí/kg** |
 |---|---|---|---|
 | 1,5 | 0,733 | 0,200 | **0,933** |
 | 2,0 | 0,550 | 0,200 | **0,750** |
@@ -138,15 +140,15 @@ Câu hỏi tài chính trung tâm: 1kg vỏ gai khô sản xuất tại Lào, sa
 | 3,5 | 0,314 | 0,200 | **0,514** |
 | 4,5 | 0,244 | 0,200 | **0,444** |
 
-Ngay cả ở năng suất thấp nhất (1,5 tấn/ha), tổng chi phí ~933 USD/tấn — netback base case 1.600 USD/tấn vẫn có lời rõ ràng.
+Ngay cả ở năng suất thấp nhất (1,5 tấn/ha/năm), tổng chi phí ~933 USD/tấn — netback base case 1.600 USD/tấn vẫn có lời rõ ràng.
 
 ### 6.3. Ma trận độ nhạy: lợi nhuận/ha/năm (USD, sau chi phí)
 
-Ở mức netback base case 1.600 USD/tấn, lợi nhuận dao động **1.000-5.200 USD/ha/năm** tùy năng suất đạt được (1,5-4,5 tấn/ha) — tất cả đều dương. Ở kịch bản xấu hơn (netback 1.200 USD/tấn, ví dụ nếu trung gian ép giá hoặc hàng bị hạ loại), lợi nhuận vẫn dương nhưng biên an toàn mỏng hơn nhiều — đây là ngưỡng cần theo dõi sát trong Commercial Trial.
+Ở mức netback base case 1.600 USD/tấn, lợi nhuận dao động **1.000-5.200 USD/ha/năm** tùy năng suất đạt được (1,5-4,5 tấn/ha/năm) — tất cả đều dương. Ở kịch bản xấu hơn (netback 1.200 USD/tấn, ví dụ nếu trung gian ép giá hoặc hàng bị hạ loại), lợi nhuận vẫn dương nhưng biên an toàn mỏng hơn nhiều — đây là ngưỡng cần theo dõi sát trong Commercial Trial.
 
 ### 6.4. Bài kiểm tra áp lực tài chính (Stress Test)
 
-Giá netback hòa vốn theo từng mức năng suất: 1,5 tấn/ha → hòa vốn ~933 USD/tấn; 2,5 tấn/ha → ~640 USD/tấn; 4,5 tấn/ha → ~444 USD/tấn — tất cả đều thấp hơn nhiều so với netback base case (1.600 USD/tấn), cho biên an toàn giá khá rộng **nếu chi phí thật đúng như giả định**. Rủi ro thật sự nằm ở kịch bản nhiều biến số xấu cùng lúc: năng suất thấp + giá bị ép + hao hụt cao + chi phí lao động tăng đồng thời trong năm đầu — đây là kịch bản có thể gây lỗ, và là lý do chính khiến Giai đoạn 1 phải là một Commercial Trial đầy đủ (đo lường đồng thời cả 4 biến số này), không chỉ một thử nghiệm nông học đơn thuần.
+Giá netback hòa vốn theo từng mức năng suất: 1,5 tấn/ha/năm → hòa vốn ~933 USD/tấn; 2,5 tấn/ha/năm → ~640 USD/tấn; 4,5 tấn/ha/năm → ~444 USD/tấn — tất cả đều thấp hơn nhiều so với netback base case (1.600 USD/tấn), cho biên an toàn giá khá rộng **nếu chi phí thật đúng như giả định**. Rủi ro thật sự nằm ở kịch bản nhiều biến số xấu cùng lúc: năng suất thấp + giá bị ép + hao hụt cao + chi phí lao động tăng đồng thời trong năm đầu — đây là kịch bản có thể gây lỗ, và là lý do chính khiến Giai đoạn 1 phải là một Commercial Trial đầy đủ (đo lường đồng thời cả 4 biến số này), không chỉ một thử nghiệm nông học đơn thuần.
 
 ### 6.5. Mức độ tin cậy của số liệu
 
